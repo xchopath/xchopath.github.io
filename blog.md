@@ -1,5 +1,5 @@
 ---
 layout: blog-index
-title: My Blog
-description: Test page
+title: Xchopath Hacknotes
+description: I dunno how
 ---
